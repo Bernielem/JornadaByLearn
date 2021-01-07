@@ -1,0 +1,10 @@
+Numero = 4
+if Numero == 2:
+  print('você arrasou')
+elif Numero == 3:
+  print('você arrasou')
+elif Numero == 7:
+  print('você arrasou')
+else :
+  print('você não arrasou')
+  
